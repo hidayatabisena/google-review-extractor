@@ -8,7 +8,7 @@ By utilizing this script, you can easily retrieve and display the most recent re
 
 ## Screenshots
 
-![Terminal Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1688212295/Moyadev/terminal-screenshot.png)
+![CleanShot 2023-07-01 at 18 26 56@2x](https://github.com/hidayatabisena/google-review-extractor/assets/3937792/a01a23fb-5e47-4ed1-b779-4c7bb894f547)
 
 
 ## Features
