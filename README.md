@@ -8,7 +8,7 @@ By utilizing this script, you can easily retrieve and display the most recent re
 
 ## Screenshots
 
-![Window Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1688212295/Moyadev/CleanShot_2023-07-01_at_18.26.56_2x_x4wurx.png)
+![Terminal Screenshot](https://res.cloudinary.com/moyadev/image/upload/v1688212295/Moyadev/CleanShot_2023-07-01_at_18.26.56_2x_x4wurx.png)
 
 
 ## Features
