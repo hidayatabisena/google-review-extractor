@@ -44,7 +44,7 @@ By utilizing this script, you can easily retrieve and display the most recent re
 
 ## Improvements idea
 
-- **Pagination Support**: Currently, the script retrieves the top 50 newest reviews. To handle cases where there are more than 50 reviews available, you can implement pagination support to fetch additional pages of reviews and display a larger number of results
+- ~**Pagination Support**: Currently, the script retrieves the top 50 newest reviews. To handle cases where there are more than 50 reviews available, you can implement pagination support to fetch additional pages of reviews and display a larger number of results~
 
 - **Sorting Options**: Enhance the script to allow sorting the reviews based on different criteria such as rating, date, or relevance. This feature would provide flexibility in analyzing and presenting the reviews according to specific requirements
 
